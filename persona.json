@@ -1,0 +1,22 @@
+{
+  "male": {
+    "white": {
+      "adult": "https://ik.imagekit.io/spukzz3yruu/Brandrex/men-in-suit-14__1__SKX_Wme_e.png?updatedAt=1686127431369",
+      "child": "https://ik.imagekit.io/spukzz3yruu/Brandrex/SeekPng.com_man-in-a-suit_761807_oZFY2JCUs.png?updatedAt=1686127211259"
+    },
+    "black": {
+      "adult": "https://ik.imagekit.io/spukzz3yruu/Brandrex/pngwing.com__1__Ss7v67A2P.png?updatedAt=1686126148706",
+      "child": "https://ik.imagekit.io/spukzz3yruu/Brandrex/young-african-man-png_pUDZc_v-A.png?updatedAt=1686126152365"
+    }
+  },
+  "female": {
+    "white": {
+      "adult": "https://ik.imagekit.io/spukzz3yruu/Brandrex/pngwing.com__2__mxjes0YyA.png?updatedAt=1686127209556",
+      "child": "https://ik.imagekit.io/spukzz3yruu/Brandrex/teenage-girl-7__1__O6q19DiAX.png?updatedAt=1686127431594"
+    },
+    "black": {
+      "adult": "https://ik.imagekit.io/spukzz3yruu/Brandrex/pngkit_black-woman-png_1197588_4DNhfue0P.png?updatedAt=1686126149873",
+      "child": "https://ik.imagekit.io/spukzz3yruu/Brandrex/pngaaa.com-1120879_EY73HCjcp.png?updatedAt=1686126148803"
+    }
+  }
+}
